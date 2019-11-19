@@ -11,4 +11,11 @@ This contract allows you to track coupon balance. At deployment time, you set yo
 The contract owner can send any integer quantity of coupons to clients.
 
  
+###Technology
 
+The contract was developed in Solidity language, to be deployed into a Ethereum blockchain. 
+
+
+###TODO
+
+TBD
